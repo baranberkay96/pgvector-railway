@@ -1,5 +1,7 @@
 # Deploy and Host pgvector with Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/postgres-18-pgvector-vector-database?referralCode=20H68q)
+
 pgvector adds vector similarity search to PostgreSQL, so embeddings live next to the rest of your data and are queried with SQL. This community template runs PostgreSQL 18 with pgvector 0.8 on Railway's own Postgres image, with PgBouncer connection pooling and daily backups to a Railway Bucket.
 
 ## About Hosting pgvector
